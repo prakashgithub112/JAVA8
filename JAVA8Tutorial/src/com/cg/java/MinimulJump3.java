@@ -1,10 +1,10 @@
 package com.cg.java;
 
 
-public class MinimulJump2 {
+public class MinimulJump3 {
 public static void main(String args[]){
  
-MinimulJump2 mj = new MinimulJump2();
+MinimulJump3 mj = new MinimulJump3();
 System.out.println(mj.solution(2, 6, 2));
 }
 
